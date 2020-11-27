@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonwLoadPIC", "DonwLoadPIC\DonwLoadPIC.csproj", "{77971017-228D-4925-AA4C-27AAF96C8EB8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DownLoadPIC_setup", "DownLoadPIC\DownLoadPIC.vdproj", "{74793A11-E425-4877-A074-F60C3DEBDC1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77971017-228D-4925-AA4C-27AAF96C8EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77971017-228D-4925-AA4C-27AAF96C8EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77971017-228D-4925-AA4C-27AAF96C8EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77971017-228D-4925-AA4C-27AAF96C8EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74793A11-E425-4877-A074-F60C3DEBDC1E}.Debug|Any CPU.ActiveCfg = Debug
+		{74793A11-E425-4877-A074-F60C3DEBDC1E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {545306B4-3D49-4BF5-9C62-8AD5E74E4DCB}
+	EndGlobalSection
+EndGlobal

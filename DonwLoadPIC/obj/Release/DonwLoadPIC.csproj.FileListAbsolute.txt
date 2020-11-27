@@ -1,0 +1,11 @@
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\bin\Release\DonwLoadPIC.exe.config
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\bin\Release\DonwLoadPIC.exe
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\bin\Release\DonwLoadPIC.pdb
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\obj\Release\DonwLoadPIC.csprojAssemblyReference.cache
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\obj\Release\DonwLoadPIC.DownloadPIC.resources
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\obj\Release\DonwLoadPIC.Properties.Resources.resources
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\obj\Release\DonwLoadPIC.TestForm1.resources
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\obj\Release\DonwLoadPIC.csproj.GenerateResource.cache
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\obj\Release\DonwLoadPIC.csproj.CoreCompileInputs.cache
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\obj\Release\DonwLoadPIC.exe
+D:\MyProgram\DonwLoadPIC_v4\DonwLoadPIC\obj\Release\DonwLoadPIC.pdb
